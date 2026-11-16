@@ -1,16 +1,13 @@
-## Hi there 👋
+# oyido
 
-<!--
-**oyido/oyido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build [AstroStarCheck](https://astrostarcheck.com), a free astrology chart calculator.
 
-Here are some ideas to get you started:
+- Swiss Ephemeris precision
+- Natal charts, Firdaria periods, solar returns, synastry and transits
+- Chart computation runs in the browser, so birth data stays on the device
+- No account, no paywall, 11 languages
+- Public JSON chart endpoint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project repository: https://github.com/oyido/AstroStarCheck
+
+Contact: admin@astrostarcheck.com
